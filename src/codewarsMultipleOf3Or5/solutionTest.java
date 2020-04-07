@@ -25,4 +25,9 @@ public class solutionTest {
 	public void sumOfMultiples_10_return23() {
 		assertEquals(23, MultipleOf3Or5.sumOfMultiples(10));
 	}
+	
+	@Test
+	public void sumOfMultiples_23_return104() {
+		assertEquals(119, MultipleOf3Or5.sumOfMultiples(23));
+	}
 }
