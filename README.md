@@ -1,4 +1,4 @@
-# Multiples Of 3 or 5
+# Multiples Of 3 or 5 (6 KYU)
 
 Solving [this](https://www.codewars.com/kata/514b92a657cdc65150000006/train/java) challenge on codewars.
 

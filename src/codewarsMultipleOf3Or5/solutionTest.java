@@ -15,4 +15,10 @@ public class solutionTest {
 	public void sumOfMultiples_6_return3() {
 		assertEquals(8, MultipleOf3Or5.sumOfMultiples(6));
 	}
+	
+	@Test
+	public void sumOfMultiples_7_return3() {
+		assertEquals(14, MultipleOf3Or5.sumOfMultiples(7));
+	}
+	
 }
